@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "30634254129",
+    "firebase_url": "https://threadinsta-5131e-default-rtdb.firebaseio.com",
+    "project_id": "threadinsta-5131e",
+    "storage_bucket": "threadinsta-5131e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30634254129:android:e86999a2795d9c85141a10",
+        "android_client_info": {
+          "package_name": "com.example.threadinsta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-1GCEkNMzH2rhCMEKqhc1le49gk5TTOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
